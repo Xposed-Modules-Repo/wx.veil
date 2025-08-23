@@ -16,6 +16,11 @@ Telegram：[https://t.me/wx_veil](https://t.me/wx_veil)     企鹅群：10191624
 
 
 # 使用教程
+
+使用权请在LSPosed Manager的设置界面关闭**Xposed API调用保护**(切换需要重启)
+
+建议使用it版本的Lsposed
+
 ```plain
 点击主界面右上角的搜索按钮，在搜索框输入 #veil 进入模块配置界面
 在好友界面长按好友备注5秒或在聊天输入框输入 #veil 打开对该好友隐藏的界面
