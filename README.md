@@ -1,6 +1,6 @@
 交流
 
-Telegram：[https://t.me/wx_veil](https://t.me/wx_veil)     企鹅群：1019162487
+Telegram：[https://t.me/wx_veil](https://t.me/wx_veil)     企鹅群：暂不开放
 
 # 模块简介
 面纱，隐藏微信的聊天记录，拦截语音视频通话，防止消息撤回等，**注意隐藏的是聊天记录而不是好友**。
